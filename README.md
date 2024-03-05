@@ -1,2 +1,1 @@
-# relaxsquad
-Relax and be beatutiful...at home!
+# This Repository holds the following scripts in python, Dart and TypeScript.
