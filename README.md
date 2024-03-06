@@ -12,7 +12,7 @@ Vérifier que le 2ème nombre est différent de zéro, sinon afficher "Erreur : 
 ## Exercice 3
 Demander à l’utilisateur de saisir un nombre entier.
 Afficher si ce nombre est pair ou impair (le reste de la division entière de ce nombre par deux égal à 0 ou non).
-Pour obtenir le reste d'une division, on utilise l'opérateur "Modulo". En langage C l'opérateur Modulo est représenté par le symbole % :
+Pour obtenir le reste d'une division, on utilise l'opérateur "Modulo".L'opérateur Modulo est représenté par le symbole % :
 int a = 14;
 int b = 5;
 int reste = a % b; // suite à cette opération, reste = 4 (14/5 = 2 et il reste 4)
